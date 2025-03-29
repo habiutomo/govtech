@@ -2,6 +2,8 @@
 
 A modern web portal that provides citizens with easy access to government services and information.
 
+![Generated Icon](1.jpg)
+
 ## Overview
 
 The GovTech Citizen Services Portal is a comprehensive platform designed to simplify how citizens interact with government services. The portal organizes services by categories and life events, making it intuitive for users to find what they need.
@@ -111,3 +113,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
+
+habizinnia@gmail.com
